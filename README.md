@@ -1,5 +1,5 @@
 This is a poster template for Peking University. Here is the visual representation:
 
-<center class ='img'>
+<div align=center>
 <img src="result.png" width="45%">
-</center>
+<div>
